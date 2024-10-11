@@ -16,4 +16,4 @@ Spolupráce na projektu aneb proč nikdy nepushovat do masteru
 8. Stáhni si aktuální verzi větve main.
 
 
-hfkjdfhgru
+
