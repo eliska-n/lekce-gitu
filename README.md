@@ -14,6 +14,3 @@ Spolupráce na projektu aneb proč nikdy nepushovat do masteru
 6. Požádej Soustruha nebo Elišku o review.
 7. Mergni svůj pull request jen pokud je "approved".
 8. Stáhni si aktuální verzi větve main.
-
-
-
