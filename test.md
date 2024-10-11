@@ -48,3 +48,5 @@
 - B) K definování pravidel pro ignorování souborů.
 - C) K definování vzdálených repozitářů.
 - D) K zobrazení aktuálního stavu repozitáře.
+
+
