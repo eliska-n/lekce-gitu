@@ -1,0 +1,21 @@
+1. Co dělá příkaz git clone?
+- B) Vytvoří kopii vzdáleného repozitáře na lokálním počítači.
+
+2. Jaký příkaz vytváří novou větev v Gitu?
+- A) git checkout 
+
+3. Co dělá příkaz git push?
+- B) Odešle lokální změny na vzdálený repozitář.
+
+
+4. Jaký příkaz zobrazí historii commitů?
+- A) git log
+
+5. Jaký příkaz slouží k zaznamenání změn do repozitáře?
+- B) git commit -m "zpráva"
+
+6. Co dělá příkaz git pull?
+- C) Stahuje změny z vzdáleného repozitáře a integruje je s aktuální větví.
+
+7. K čemu slouží .gitignore soubor?
+- B) K definování pravidel pro ignorování souborů.
