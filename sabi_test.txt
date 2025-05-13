@@ -2,7 +2,7 @@
 - B) Vytvoří kopii vzdáleného repozitáře na lokálním počítači.
 
 2. Jaký příkaz vytváří novou větev v Gitu?
-- B) git branch-new
+- A) git checkout 
 
 3. Co dělá příkaz git push?
 - B) Odešle lokální změny na vzdálený repozitář.
